@@ -12,12 +12,13 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
+            <p>Eartha M. M. White Collection, Thomas G. Carpenter Library, University of North Florida, Jacksonville, Florida</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <p>Your text goes here.</p>
       </body>
   </text>
 </TEI>
